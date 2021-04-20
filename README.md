@@ -1,9 +1,9 @@
 # GeneticArt
 Applying genetic programming (evolutionary algorithm) to generate an artistic version of a reference input image  
-- [Assignment](./Task.pdf) submission for Artificial Intelligence course
+- Assignment submission for Artificial Intelligence course
 
 ## Quick testing:  
-Just replace [input.bmp](./input.bmp) with another image of the same name (respecting the requirements below) then run `a.out` from the terminal  
+Just replace [Project files/input.bmp](./input.bmp) with another image of the same name (respecting the requirements below) then run `a.out` from the terminal  
 
 ## Requirements for the code to compile/run correctly and properly  
 - Environment: any linux distribution with gcc compiler  
